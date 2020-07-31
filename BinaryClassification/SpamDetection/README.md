@@ -178,7 +178,7 @@ for i in range(0, len(sample.index)):
     print()
 ```
 
-This code sets up a new **DataFrame** with the details of the patient. Note that I have to provide the data and the column names separately. 
+This code sets up a new **DataFrame** with 4 messages, half of which are clearly spam. And note that I have to provide the data and the column name separately. 
 
 Next, we call the **predict** pipeline function to predict the diagnosis for this patient. The resulting dataframe has three columns:
 
