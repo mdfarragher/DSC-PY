@@ -34,8 +34,8 @@ You are going to build a binary classification machine learning model that reads
 Let's get started by creating a new folder for our application:
 
 ```bash
-$ mkdir TaxiFarePrediction
-$ cd TaxiFarePrediction
+$ mkdir HeartDiseasePrediction
+$ cd HeartDiseasePrediction
 ```
 
 If you haven't done so yet, install the NimbusML package:
