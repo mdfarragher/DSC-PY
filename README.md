@@ -39,4 +39,3 @@ Ensembles: [Predict bike demand in Washington DC](./Regression/BikeDemandPredict
 
 Clustering: [Classify Iris flowers](./Clustering/IrisFlower)
 
-Recommendation: [Build a movie recommender](./Recommendation/MovieRecommender)
