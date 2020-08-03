@@ -5,3 +5,4 @@ MulticlassClassification/DigitRecognition/mnist_train.csv
 MulticlassClassification/DigitRecognition/.ionide/
 BinaryClassification/SpamDetection/.ionide/symbolCache.db
 BinaryClassification/TitanicPrediction/.ionide/
+Regression/BikeDemandPrediction/.ionide/
