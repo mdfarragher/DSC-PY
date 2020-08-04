@@ -8,6 +8,7 @@ Download the [California 1990 housing census](https://github.com/mdfarragher/DSC
 
 This is a CSV file with 17,000 records that looks like this:
 ￼
+
 ![Data File](./assets/data.png)
 
 The file contains information on 17k housing blocks all over the state of California:
