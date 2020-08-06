@@ -1,6 +1,6 @@
 # Data Science with Python, ML.NET and NimbusML
 
-![Data Science with Python, ML.NET and NimbusML](./assets/DSC-PY.jpg)
+![Data Science with Python, ML.NET and NimbusML](./assets/DSC-PY2.jpg)
 
 This repository contains all course assignments for my **Data Science with Python, ML.NET and NimbusML** course and will get you up to speed with Microsoft's new ML.NET library and the NimbusML package for Python.
 

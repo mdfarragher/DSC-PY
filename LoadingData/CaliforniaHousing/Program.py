@@ -19,8 +19,8 @@ dataFrame = dataFrame[dataFrame.median_house_value < 500000]
 # convert the house value range to thousands
 dataFrame.median_house_value /= 1000
 
-# show the transformed data
-print(dataFrame)
+# # show the transformed data
+# print(dataFrame)
 
 # # plot median house value by longitude
 # plt.xlabel("longitude")
@@ -48,5 +48,4 @@ for lo in zip(range(-124, -114), range(-123, -113)):
         dataFrame[f"cross_{lo}x{la}"] = dataFrame[f"longitude_{lo}"] * dataFrame[f"latitude_{la}"]
 
 # show the transformed data
-print(dataFrame.info())
 print(dataFrame)
